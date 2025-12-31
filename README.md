@@ -1,6 +1,6 @@
 # My Personal Portfolio Website
 
-Live site: **[ridahajjali.github.io/My-Website](https://ridahajjali.github.io/My-Website/)**
+Live site: **[ridahajjali.github.io](https://ridahajjali.github.io)**
 
 This is my personal portfolio website, built to showcase my work, skills, and experience as a developer.  
 It is hosted on GitHub Pages and continuously improved as I iterate on my projects and profile.
