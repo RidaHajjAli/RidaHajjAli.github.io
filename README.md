@@ -34,8 +34,8 @@ If you want to run the site locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ridahajjali/My-Website.git
-cd My-Website
+git clone https://github.com/RidaHajjAli/RidaHajjAli.github.io.git
+cd RidaHajjAli.github.io
 
 # Open index.html directly in your browser
 # or use a simple HTTP server (recommended)
